@@ -36,6 +36,10 @@ The `<body>` tag defines the document body, and contains all the visible content
 </body>
 </html>
 ```
+generate boilerplate code
+```html
+html:5
+```
 ## Task_4: Add a heading to the page
 
 To add a heading, we will use the `<h1>` tag. This stands for "heading 1" and is used to indicate the most important heading. HTML headings go from `<h1>` to `<h6>`, to represent a descending order of importance.
