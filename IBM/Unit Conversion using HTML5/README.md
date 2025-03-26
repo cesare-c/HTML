@@ -113,7 +113,7 @@ For Temperature, Weight, Distance:
 
 - similar with Task 3
 
-## Task 5: Add the page footer and home button
+## Task 6: Add the page footer and home button
 
 1. Add another `div` tag, below the `all-conversion-sections div` with attribute id set to `go-home`, to navigate to the top of the page. Copy and paste the following code in the div, to render a button with a home icon.
 
